@@ -6,3 +6,4 @@ this is a simple model with limited question and answer
 
 attention:
 You should run the code first and write your question or say your problem
+and also project has some example in the end of the project check it please
